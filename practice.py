@@ -1,5 +1,5 @@
 # practice sheet
-print(hello)
+print("hello boss")
 import numpy as np
 import time
 SIZE= 1000000

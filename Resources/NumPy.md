@@ -1,4 +1,5 @@
 # Guide for NumPy
+<pre>
 import numpy as np</br>
 a = np.array([1,2,3])</br>
 b = np.array([(1.5,2,3), (4,5,6)], dtype = float)</br>
@@ -120,3 +121,4 @@ np.hsplit(a,3) #Split the array horizontally at the 3rd index</br>
 np.vsplit(c,2) #Split the array vertically at the 2nd index</br>
   [array([[[ 1.5, 2. ,1.],[ 4. ,5. , 6. ]]]),</br>
    array([[[ 3., 2., 3.],[ 4.,5., 6.]]])]</br>
+</pre>
